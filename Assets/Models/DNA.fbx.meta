@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 166c3fcddb9142449ae233a3acbb8783
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Adenina
+    100002: Adenina.001
+    100004: Citosina
+    100006: //RootNode
+    100008: Elemento
+    100010: enlace
+    100012: Fosofrdiester
+    100014: Fosofrdiester.001
+    100016: Fosofrdiester.002
+    100018: Fosofrdiester.003
+    100020: Fosofrdiester.007
+    100022: Guanina
+    100024: Hemi
+    100026: light_node_0
+    100028: light_node_1
+    100030: node_0
+    100032: pentagono
+    100034: Ribosa
+    100036: Ribosa.001
+    100038: Ribosa.002
+    100040: Ribosa.003
+    100042: Ribosa.006
+    100044: Ribosa.007
+    100046: subnode_131
+    100048: Timina
+    100050: Timina.001
+    400000: Adenina
+    400002: Adenina.001
+    400004: Citosina
+    400006: //RootNode
+    400008: Elemento
+    400010: enlace
+    400012: Fosofrdiester
+    400014: Fosofrdiester.001
+    400016: Fosofrdiester.002
+    400018: Fosofrdiester.003
+    400020: Fosofrdiester.007
+    400022: Guanina
+    400024: Hemi
+    400026: light_node_0
+    400028: light_node_1
+    400030: node_0
+    400032: pentagono
+    400034: Ribosa
+    400036: Ribosa.001
+    400038: Ribosa.002
+    400040: Ribosa.003
+    400042: Ribosa.006
+    400044: Ribosa.007
+    400046: subnode_131
+    400048: Timina
+    400050: Timina.001
+    2000000: node_0
+    2100000: Material.004
+    2100002: Material.003
+    2100004: Material.002
+    2100006: Material.001
+    2100008: material_4
+    2100010: material_2
+    2100012: material_1
+    2100014: material_3
+    2100016: material_5
+    2100018: material_0
+    2100020: material_6
+    2100022: Material.005
+    2100024: Material.006
+    2100026: No Name
+    2300000: Adenina
+    2300002: Adenina.001
+    2300004: Citosina
+    2300006: Elemento
+    2300008: enlace
+    2300010: Fosofrdiester
+    2300012: Fosofrdiester.001
+    2300014: Fosofrdiester.002
+    2300016: Fosofrdiester.003
+    2300018: Fosofrdiester.007
+    2300020: Guanina
+    2300022: pentagono
+    2300024: Ribosa
+    2300026: Ribosa.001
+    2300028: Ribosa.002
+    2300030: Ribosa.003
+    2300032: Ribosa.006
+    2300034: Ribosa.007
+    2300036: subnode_131
+    2300038: Timina
+    2300040: Timina.001
+    3300000: Adenina
+    3300002: Adenina.001
+    3300004: Citosina
+    3300006: Elemento
+    3300008: enlace
+    3300010: Fosofrdiester
+    3300012: Fosofrdiester.001
+    3300014: Fosofrdiester.002
+    3300016: Fosofrdiester.003
+    3300018: Fosofrdiester.007
+    3300020: Guanina
+    3300022: pentagono
+    3300024: Ribosa
+    3300026: Ribosa.001
+    3300028: Ribosa.002
+    3300030: Ribosa.003
+    3300032: Ribosa.006
+    3300034: Ribosa.007
+    3300036: subnode_131
+    3300038: Timina
+    3300040: Timina.001
+    4300000: Timina.001
+    4300002: Adenina.001
+    4300004: Fosofrdiester.007
+    4300006: Ribosa.007
+    4300008: Ribosa.006
+    4300010: Ribosa.003
+    4300012: Fosofrdiester.003
+    4300014: Ribosa.002
+    4300016: Fosofrdiester.002
+    4300018: subnode_131
+    4300020: Adenina
+    4300022: Citosina
+    4300024: Guanina
+    4300026: Fosofrdiester.001
+    4300028: Ribosa.001
+    4300030: Timina
+    4300032: Ribosa
+    4300034: pentagono
+    4300036: enlace
+    4300038: Elemento
+    4300040: Fosofrdiester
+    10800000: Hemi
+    10800002: light_node_0
+    10800004: light_node_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
